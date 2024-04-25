@@ -1,11 +1,7 @@
-## Image2OCR (imágene a reconocimiento óptico de caracteres)
+## CropSquareFill
 
-![Alt Text](https://raw.githubusercontent.com/webdevserv/image2OCR/main/images/screen.JPG)  
+![Alt Text](https://raw.githubusercontent.com/webdevserv/streamlit_component_fill_square_cropper101/main/screens/applicationscreen.JPG)  
 
-## Slow
-
-If you get this message, it will take a long time.
-Neither CUDA or MPS are available;...
 
 ## Contributions
  
@@ -20,3 +16,5 @@ If you enjoy this consider buying me a coffee or becoming a monthly supporter. �
 ## Streamlit
 
 Streamlit: <a href='https://webdevserv-portfolio-idoia-icodeidoia-portfolio-9kblei.streamlit.app/' target='_blank'>Streamlit link</a>
+
+
