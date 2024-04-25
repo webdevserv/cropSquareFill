@@ -1,4 +1,4 @@
-## CropSquareFil
+## CropSquareFill
 
 ![Alt Text](https://raw.githubusercontent.com/webdevserv/streamlit_component_fill_square_cropper101/main/screens/applicationscreen.JPG)  
 
